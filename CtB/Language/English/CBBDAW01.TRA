@@ -22,14 +22,14 @@
 @22  = ~"Legends coming to life, four well armed adventurers, backpacks full to the seams with stolen loot, rousing me from my slumber this <DAY> of <MONTHNAME>."~
 @23  = ~"Legends coming to life, five veterans of battle, backpacks full to the seams with stolen loot, rousing me from my slumber this <DAY> of <MONTHNAME>."~
 @24  = ~"Legends coming to life, six comrades in might and magic, backpacks full to the seams with stolen loot, rousing me from my slumber this <DAY> of <MONTHNAME>."~
-@25  = ~"Perchance you come here, hoping to catch me unawares, thinking to steal the treasures I have collected since you were naught but a gleam in your grandmother's eye as she watched your grandfather."~
+@25  = ~"Perchance you come here, hoping to catch me unawares, thinking to steal the treasures I have collected since you were naught but a gleam in your grandmothers' eye as she watched your grandfather."~
 @26  = ~"Legends coming to life, a solitary vagabond adventurer, rousing me from my slumber this <DAY> of <MONTHNAME>."~
 @27  = ~"Legends coming to life, two vagabond adventurers, rousing me from my slumber this <DAY> of <MONTHNAME>."~
 @28  = ~"Legends coming to life, three rough adventurers, rousing me from my slumber this <DAY> of <MONTHNAME>."~
 @29  = ~"Legends coming to life, four well armed adventurers, rousing me from my slumber this <DAY> of <MONTHNAME>."~
 @30  = ~"Legends coming to life, five veterans of battle, rousing me from my slumber this <DAY> of <MONTHNAME>."~
 @31  = ~"Legends coming to life, six comrades in might and magic, rousing me from my slumber this <DAY> of <MONTHNAME>."~
-@32  = ~"Perchance you come here thinking to slay me and steal the treasures I have collected since you were naught but a gleam in your grandmother's eye as she watched your grandfather."~
+@32  = ~"Perchance you come here thinking to slay me and steal the treasures I have collected since you were naught but a gleam in your grandmothers' eye as she watched your grandfather."~
 @33  = ~"Kings and queens may sit in council with their advisors until war is brought to their lands, but dragons are not found to be quite so careless in real life."~
 @34  = ~"Yet, I do believe, I truly believe, that 'twouldn't be what you want.  Forfend your weapons, adventurer, and speak."~
 @35  = ~It is within my power, evil wrym, to slay you where you stand.  Though, I give you your life, as I am honor bound to offer you an opportunity.~
@@ -51,7 +51,7 @@
 @51  = ~I am <GABBER>, a <MANWOMAN> without a home.  I too, would know your name.~
 @52  = ~I am called many things, but you, mighty wrym, can call me Solaufein.~
 @53  = ~You can simply call me Elminster.~
-@54  = ~"I have been encountering adventurers since you were naught but a gleam in your grandmother's eye as she watched your grandfather.  I know you to lie to me, and your honor is slighted."~
+@54  = ~"I have been encountering adventurers since you were naught but a gleam in your grandmothers' eye as she watched your grandfather.  I know you to lie to me, and your honor is slighted."~
 @55  = ~"There shall be no Feint between us, and you shall become my break-fast."~
 @56  = ~"You think yourself a god?  No, foolish adventurer, you shall not deceive me with such boasts.  You have not even had the chance to gain my respect, and you have already slighted the honor between us."~
 @57  = ~"Quite pleased to meet you, oh-soon-to-be-dinner.  I am known as Darammareth S'ooloun Crommadar Ammanth Kuleera, or Velvetfoot in your tongue."~
