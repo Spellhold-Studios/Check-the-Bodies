@@ -12,8 +12,7 @@
 
 
 **Author:** Charles Bisson  
-**Mod Website:** <a href="hhttp://www.spellholdstudios.net/ie/ctb">Spellhold Studios</a>  
-**Mod Forum:** <a href="http://www.shsforums.net/forum/196-check-the-bodies/">Check The Bodies</a>  
+ **Mod Forum:** <a href="http://www.shsforums.net/forum/196-check-the-bodies/">Check The Bodies</a>  
 
 
 [Read the mod's readme](http://spellholdstudios.github.io/readmes/ctb-readme-english.html).
@@ -179,7 +178,7 @@ This component requires the main component to be installed. Compress files for b
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - The creators of the Baldur's Gate series: <a href="http://www.bioware.com/">Bioware</a> and <a href="http://www.obsidian.net/">Black Isle Studios</a>.
 
 - Braño (aka Valiant, Slovakia): New Worldmap, Website and additional Hlondeth area modeling.
